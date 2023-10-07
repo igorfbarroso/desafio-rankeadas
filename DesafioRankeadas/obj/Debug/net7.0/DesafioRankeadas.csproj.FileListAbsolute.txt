@@ -1,0 +1,14 @@
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\bin\Debug\net7.0\DesafioRankeadas.exe
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\bin\Debug\net7.0\DesafioRankeadas.deps.json
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\bin\Debug\net7.0\DesafioRankeadas.runtimeconfig.json
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\bin\Debug\net7.0\DesafioRankeadas.dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\bin\Debug\net7.0\DesafioRankeadas.pdb
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.AssemblyInfoInputs.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.AssemblyInfo.cs
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.csproj.CoreCompileInputs.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\refint\DesafioRankeadas.dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.pdb
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\DesafioRankeadas.genruntimeconfig.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-2\DesafioRankeadas\obj\Debug\net7.0\ref\DesafioRankeadas.dll
